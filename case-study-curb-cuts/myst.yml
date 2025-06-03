@@ -1,0 +1,17 @@
+version: 1
+extends:
+  - ../csf.yml
+project:
+  id: eef5f963-a83b-41c9-8194-7b77c9e804c6
+  title: A Case Study on Curb Cuts & Sidewalks
+  subtitle: How the Disability Rights Movement Transformed Public Space for Everyone
+  description: |
+    In the 1970s and '80s, disability advocates fought for curb cuts—small ramps on sidewalks that allowed wheelchair users safe passage.
+    Once implemented, these seemingly niche accommodations transformed public spaces for everyone: parents with strollers, delivery workers, travelers, and runners alike.
+    The big idea is simple: when we design for the margins, we create systems that are more inclusive, resilient, and beneficial for all.
+  date: 2025-06-01
+  downloads:
+    - title: Download PDF
+      url: case-study-curb-cuts.pdf
+  authors:
+    - courtney

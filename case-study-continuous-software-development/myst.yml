@@ -1,0 +1,20 @@
+version: 1
+extends:
+  - ../csf.yml
+project:
+  id: 5dc90df9-58fe-4b0b-908e-cb504109eb0c
+  title: A Case Study on Continuous Software Development
+  subtitle: How Agile and Lean Principles Reshaped How We Build, Collaborate, and Deliver
+  description: |
+    The transition from rigid waterfall methods to Agile and continuous software development reshaped how software is built.
+    Inspired by lean manufacturing, developers introduced small, incremental changes, automated testing, and continuous integration,
+    unlocking massive improvements in delivery speed, quality, and team collaboration.
+    The key takeaway: change isn’t a disruption, it’s a constant to be designed for—by adopting iterative, continuous practices,
+    we can accelerate progress while maintaining rigor and resilience.
+  date: 2025-06-01
+  downloads:
+    - title: Download PDF
+      url: case-study-continuous-software-development.pdf
+  authors:
+    - steve
+    - rowan
