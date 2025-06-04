@@ -49,7 +49,8 @@ advancements in various fields and improved quality of life.
 - Can influence research questions and methodology
 ```
 
-```{card} 📍 Where to Find- Government agencies
+```{card} 📍 Where to Find
+- Government agencies
 - Foundations
 - Universities and institutional networks
 - Academic conferences and symposiums
