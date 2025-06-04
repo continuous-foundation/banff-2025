@@ -1,0 +1,21 @@
+version: 1
+extends:
+  - ../csf.yml
+project:
+  id: 5eff3cbd-3560-4229-8400-0c032a958595
+  title: Guiding Personas for Continuous Science
+  subtitle: Understanding the needs, challenges, and motivations of six key groups shaping scientific communication and collaboration.
+  description: |
+    Six key personas represent the diverse groups shaping the scientific ecosystem:
+    Researchers, Institutions, Tools & Infrastructure, Journals & Societies, Funders, and the Public.
+    Each offers a distinct perspective on how science is created, communicated, supported, and
+    used—revealing opportunities to design systems that serve the whole.
+  date: 2025-05-29
+  downloads:
+    - title: Download PDF
+      url: personas.pdf
+  authors:
+    - courtney
+    - rowan
+    - steve
+    - heather
