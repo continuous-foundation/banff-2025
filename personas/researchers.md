@@ -61,7 +61,7 @@ Individual researchers are at the forefront of scientific discovery. Researchers
 :::{grid #researchers-alive} 1 1 1 1
 
 ```{card} 🪪 Edith
-- Age: 35
+- Age: 32
 - Assistant Professor
 - Single
 - No Plants 🪴

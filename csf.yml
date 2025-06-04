@@ -21,8 +21,14 @@ project:
     - id: courtney
       name: Courtney Babott
       email: courtney@wildlyopen.com
+      orcid: 0009-0009-4167-2325
       affiliations:
         - id: csf
+        - id: wildlyopen
+    - id: heather
+      name: Heather Szpecht
+      email: heather@wildlyopen.com
+      affiliations:
         - id: wildlyopen
     - id: steve
       name: Steve Purves

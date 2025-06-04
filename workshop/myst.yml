@@ -1,0 +1,29 @@
+version: 1
+extends:
+  - ../csf.yml
+project:
+  id: ab1455f1-e404-4510-a86a-2bcad1aac111
+  title: Continuous Science Foundation Workshop — Banff 2025
+  subtitle: Shaping the future of scientific communication through Stories, Values, and Movement from Banff
+  description: |
+    In May 2025, a diverse group of researchers, funders, technologists, and advocates gathered in Banff to reimagine the future of scientific communication. Through case studies, system mapping, storytelling, and creative exercises, we surfaced the shared values, cultural shifts, and infrastructure needed to make science more modular, iterative, and inclusive. This workshop laid the groundwork for a movement toward composable science—where research is shared in smaller, reusable parts; trust and credit are distributed across teams; and collaboration is the foundation of progress.
+  date: 2025-06-03
+  authors:
+    - rowan
+    - courtney
+    - steve
+  references:
+    personas: https://articles.continuousfoundation.org/articles/personas
+  toc:
+    - file: index.md
+    - file: day-1.md
+    - file: day-2.md
+    - file: overview.md
+    - file: facilitators.md
+    - file: pre-survey.md
+    - file: iceberg.md
+    - file: future-possibilities.md
+    - file: poetry.md
+    - file: value-proposition.md
+    - file: values.md
+    - file: story-spines.md
