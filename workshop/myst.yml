@@ -23,6 +23,7 @@ project:
     - file: pre-survey.md
     - file: iceberg.md
     - file: future-possibilities.md
+    - file: composable-science.md
     - file: poetry.md
     - file: value-proposition.md
     - file: values.md

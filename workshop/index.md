@@ -20,10 +20,6 @@ Through immersive outdoor experiences, in-depth discussions, and strategic story
 The participants of the workshop outside of the Banff Center, Canada.
 :::
 
-:::{note} This Workshop Summary is IN PROGRESS.
-We plan to get a level higher in the summary. If participants see something they want to contribute. Please send a message over slack. All content has been presented without authors. We would like to share some of the recorded pitches publicly, let us know if you would like yours included.
-:::
-
 :::{card} 👋 Workshop overview
 :url: overview.md
 Scientific communication is under fire from multiple sides—challenged to do more, move faster, open up, and deliver impact, all while balancing on top of a legacy system. Together, we were invited to create space to align around something bigger—a shared vision for the future of scientific communication. Not a vague ideal, but a **movement** we can name, shape, and build.
@@ -34,8 +30,8 @@ Scientific communication is under fire from multiple sides—challenged to do mo
 On the first day of the workshop we set context, introduced each other, created personas, went through the pre-workshop survey results, used the iceberg model to go deep into the mindsets and systems behind events, ideated a preferable future and chose a movement together: composable science.
 :::
 
-:::{card} 📽️ Day 2 — Setting the Context, Building the Core, Designing the Movement
-:url: day-1.md
+:::{card} 📽️ Day 2 — Story, Strategy, and Activation
+:url: day-2.md
 On Day 2, we translated the vision of composable science into shared values, plain-language poetry, clear value propositions, and future-focused stories—moving from abstract ideals to actionable narratives that grounded the movement in collaboration, reuse, and real-world impact.
 :::
 

@@ -50,6 +50,17 @@ project:
     - id: wildlyopen
       name: Wildly Open
       url: https://wildlyopen.com
+  funding:
+    statement: This work was supported by The Navigation Fund Open Science Program.
+    sources:
+      name: The Navigation Fund Open Science Program
+      doi: https://doi.org/10.71707/kqpw-0233
+    investigators:
+      - rowan
+      - courtney
+      - steve
+  export:
+    - jats
   abbreviations:
     CSF: Continuous Science Foundation
 site:
