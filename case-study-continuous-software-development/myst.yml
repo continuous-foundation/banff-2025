@@ -2,6 +2,7 @@ version: 1
 extends:
   - ../csf.yml
 project:
+  doi: 10.62329/fjdv5679
   id: 5dc90df9-58fe-4b0b-908e-cb504109eb0c
   title: A Case Study on Continuous Software Development
   subtitle: How Agile and Lean Principles Reshaped How We Build, Collaborate, and Deliver

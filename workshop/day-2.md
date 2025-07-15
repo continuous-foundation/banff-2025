@@ -46,6 +46,3 @@ We then wrapped up the event by creating 3 minute pitches using a "Show Don't Te
 :::{figure #pitch-tracy} images/pitch-tracy.png
 Pitching the room on Composable science.
 :::
-
-:::{note} We can share some of the pitches here if people are up for it.
-:::

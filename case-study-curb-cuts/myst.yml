@@ -2,6 +2,7 @@ version: 1
 extends:
   - ../csf.yml
 project:
+  doi: 10.62329/jwcu8665
   id: eef5f963-a83b-41c9-8194-7b77c9e804c6
   title: A Case Study on Curb Cuts & Sidewalks
   subtitle: How the Disability Rights Movement Transformed Public Space for Everyone
