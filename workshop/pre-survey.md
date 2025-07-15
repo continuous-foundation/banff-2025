@@ -1,5 +1,6 @@
 ---
 title: Pre-Meeting Survey
+description: The pre-workshop survey results informed the sessions we designed allowing us to lean into nurturing alignment that already exists, edge into the frictions, biases, or mental models that often hold discussion back.
 ---
 
 (pre-survey-intro)=
@@ -22,6 +23,10 @@ See the full survey results, in \*_gasp_\* a PDF.
 
 (tensions-intro)=
 Scientific communication is shaped by a series of deep-seated tensions—ideas that often appear to be in conflict, yet reveal opportunities for transformation when reconsidered. To design better systems for sharing research, we must challenge the assumptions embedded in traditional practices and ask what it would mean to communicate science in ways that reflect how it is actually done. There were four thematic tensions that were present in the survey responses.
+
+:::{figure #fig-tensions} thematic-tensions.png
+Tensions that were identified in the pre-workshop survey.
+:::
 
 :::{div #tensions}
 

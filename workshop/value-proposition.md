@@ -1,5 +1,7 @@
 ---
 title: Value Proposition
+description: |
+  After grounding ourselves in shared purpose through the poetry exercise, we shifted gears to explore how to clearly communicate the value of the ideas emerging in the room.
 ---
 
 +++ {"label": "value-prop-intro"}

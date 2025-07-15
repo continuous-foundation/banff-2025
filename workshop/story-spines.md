@@ -1,5 +1,7 @@
 ---
 title: Story Spines
+description: |
+  After framing the values, value proposition and simple language we used the Story Spine framework—a simple storytelling structure—to imagine how the future of science might unfold.
 ---
 
 +++ {"label": "story-spine-intro" }

@@ -41,6 +41,16 @@ On the first day of the workshop we set context, introduced each other, created 
 On Day 2, we translated the vision of composable science into shared values, plain-language poetry, clear value propositions, and future-focused stories—moving from abstract ideals to actionable narratives that grounded the movement in collaboration, reuse, and real-world impact.
 :::
 
+:::{card} 🔄 Workshop Reconnect
+:url: reconnect.md
+Six weeks after the transformative Banff workshop, the workshop participants came back together to reflect on progress and chart the path forward for the composable science movement.
+:::
+
+:::{iframe #fig-video} https://www.youtube-nocookie.com/embed/Y5uL9X3eGBI?si=dE38X3Pj7o8wZVF0
+:width: 100%
+A video on the Composable Science movement, which was the outcome of the workshop. Get involved at [csf.now](https://csf.now).
+:::
+
 ## Acknowledgement
 
-We are very grateful to [The Navigation Fund](https://www.navigation.org) for supporting this workshop and for helping lay the foundations for the Continuous Science Foundation.
+We are very grateful to [The Navigation Fund](https://www.navigation.org) for supporting this workshop and for helping lay the foundations for Continuous Science Foundation.

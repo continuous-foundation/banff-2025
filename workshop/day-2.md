@@ -1,9 +1,14 @@
 ---
 title: Day 2
 subtitle: Story, Strategy, and Activation
+description: Day 2 focused on translating the vision of composable science into clear values, narratives, and value propositions.
 ---
 
 Day 2 focused on translating the vision of composable science into clear values, narratives, and value propositions. We began with [Neanderthal poetry](./poetry.md) a playful exercise that used simple language to distill complex ideas, surfacing foundational themes like reuse, recognition, transparency, and collaboration. These themes carried into our [ad-lib value proposition exercise](./value-proposition.md), where participants crafted statements linking specific audiences with actionable benefits—helping shift the conversation from ideals to real-world relevance. A [values exercise](./values.md) further grounded the group in shared principles like openness over control and empowerment over suppression. In the afternoon, participants wrote [Story Spines](./story-spines.md), tracing transformations in science from closed, siloed systems to collaborative, modular, and iterative practices. These stories brought emotional clarity to the movement, painting a future where science is faster, more inclusive, and more useful to society. We closed the day with rapid-fire pitches that demonstrated how these ideas could take shape in real-world tools, labs, and policies—marking a shift from inspiration to activation.
+
+:::{figure #fig-pitch-prep} ./images/pitch-prep.png
+Preparing three minute [pitches](./pitches.md) based on the storytelling framework.
+:::
 
 ## Purpose Poetry
 
@@ -41,8 +46,10 @@ Read some of the stories that came out of the ideation session in Banff.
 
 ## Pitches
 
-We then wrapped up the event by creating 3 minute pitches using a "Show Don't Tell" framework.
+![](#pitches-intro)
 
-:::{figure #pitch-tracy} images/pitch-tracy.png
-Pitching the room on Composable science.
+:::{card} 📺 See the Pitches
+:url: pitches.md
+
+Selected participants agreed to share their pitches!
 :::

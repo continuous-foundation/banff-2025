@@ -1,6 +1,8 @@
 ---
 title: Neanderthal Poetry
 subtitle: Breaking down the jargon-filled language of composable science movement
+description: |
+  To ground our big ideas in simplicity and creativity, we used a playful exercise we called Neanderthal poetry. The idea was to take the complex, often jargon-filled language of “composable science” and break it down into its simplest, clearest terms.
 ---
 
 +++ {"label": "poetry-intro"}

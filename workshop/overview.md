@@ -1,5 +1,7 @@
 ---
 title: Workshop Overview
+description: |
+  The workshop confronted a fundamental disconnect: the way we conduct science has changed, but the way we communicate it has not. Research today is iterative, computational, and collaborative. Yet, our outputs are still largely static PDFs, siloed data, and disconnected repositories. The workshop invited participants to break away from these conventions and imagine a communication ecosystem that matches the pace and complexity of modern science.
 ---
 
 We came together in Banff at a pivotal—and precarious—moment. Scientific communication is under increasing pressure. Policymakers are rewriting the rules. Researchers are navigating new technologies with rising expectations. Funders are demanding faster, more open sharing. Trust in science is being tested like never before. Scientific communication is under fire from multiple sides—challenged to do more, move faster, open up, and deliver impact, all while balancing on top of a legacy system.

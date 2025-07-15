@@ -1,6 +1,8 @@
 ---
 title: Core Values
 subtitle: Identifying our core values and their non-intuitive opposites
+description: |
+  After the poetry exercise, we asked participants to define the core values they believe should guide the composable science movement—not as abstract ideals, but as compasses for real decisions.
 ---
 
 (values-intro)=

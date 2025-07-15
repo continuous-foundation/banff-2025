@@ -1,6 +1,7 @@
 ---
 title: Iceberg Model
 subtitle: Designing Complex Systems
+description: The Iceberg Model helps to move beyond surface symptoms to uncover the deeper root causes of complex issues.
 ---
 
 (iceberg-exercise)=

@@ -1,5 +1,7 @@
 ---
 title: Future Possibilities
+description: |
+  Participants revisited the areas they had prioritized for change: What structures or mindsets need to be reimagined? What habits or assumptions could we let go of? What new patterns could we intentionally design toward?
 ---
 
 +++ {"label": "future-possibilities-intro"}

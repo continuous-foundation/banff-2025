@@ -14,6 +14,11 @@ Composable Science aims to shift from the traditional "article economy" to a sys
 
 This model breaks from the current linear publishing system, embracing a networked, decentralized ecosystem of scientific knowledge. It supports multiple contributors, facilitates remixing, and aligns with modern collaboration, team based science and transparency values.
 
+:::{iframe} https://www.youtube-nocookie.com/embed/Y5uL9X3eGBI?si=dE38X3Pj7o8wZVF0
+:width: 100%
+A video on the Composable Science movement, which was the outcome of the workshop. Get involved at [csf.now](https://csf.now).
+:::
+
 ### Opportunities
 
 Rapid dissemination and iteration

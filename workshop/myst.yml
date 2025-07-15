@@ -30,3 +30,5 @@ project:
     - file: value-proposition.md
     - file: values.md
     - file: story-spines.md
+    - file: pitches.md
+    - file: reconnect.md

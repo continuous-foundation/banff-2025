@@ -1,6 +1,7 @@
 ---
 title: Day 1
 subtitle: Setting the Context, Building the Core, Designing the Movement
+description: On the first day of the workshop we set context, introduced each other, created personas, went through the pre-workshop survey results, used the iceberg model to go deep into the mindsets and systems behind events, ideated a preferable future and chose a movement together.
 ---
 
 On the first day of the workshop we set context, introduced each other, created personas, went through the pre-workshop survey results, used the iceberg model to go deep into the mindsets and systems behind events, ideated a preferable future and chose a movement together.
